@@ -1,0 +1,13 @@
+{
+    "name": "vendor/file-watcher",
+    "description": "Description of project file-watcher.",
+    "authors": [
+        {
+            "name": "jhon",
+            "email": "your@email.here"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"Daemon": "Daemon/"}
+    }
+}
