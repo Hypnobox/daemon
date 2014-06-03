@@ -1,19 +1,13 @@
 {
-    "name": "vendor/file-watcher",
-    "description": "Description of project file-watcher.",
+    "name": "jhonatanTeixeira/daemon",
+    "description": "pcntl daemon library",
     "authors": [
         {
-            "name": "jhon",
-            "email": "your@email.here"
+            "name": "Jhonatan Teixeira",
+            "email": "jhonatan.teixeira@gmail.com"
         }
     ],
     "autoload": {
         "psr-0": {"Daemon": "Daemon/"}
-    },
-    "minimum-stability": "dev",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "master"
-        }
     }
 }
