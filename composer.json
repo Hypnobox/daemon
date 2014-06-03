@@ -9,5 +9,11 @@
     ],
     "autoload": {
         "psr-0": {"Daemon": "Daemon/"}
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
     }
 }
