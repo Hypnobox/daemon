@@ -34,7 +34,7 @@ class Forker
         }
     }
 
-    public function fork(\Process\Forkable $forkable)
+    public function fork(Forkable $forkable)
     {
         if ($this->isFork) {
             return;
